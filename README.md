@@ -3,6 +3,9 @@
   <p><strong>Game Client & Infra Engineer · Unity · Deterministic Multiplayer · Native Mobile SDKs</strong></p>
   
   <p>
+    <a href="https://hungvdn1314.github.io/portfolio/">
+      <img src="https://img.shields.io/badge/Portfolio-Live_Site-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Portfolio" />
+    </a>
     <a href="https://github.com/hungvdn1314">
       <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-10b981?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
     </a>
@@ -43,10 +46,10 @@
 - 🏎️ **Custom Car Racing 3D** — Client Engineer: Built modular timeline framework for 3D vehicle customization and optimized mobile GPU batching.
 - 🥊 **Idle Combat & Obstacle Battleground** — End-to-End Prototype: Physics obstacle course hazard logic, auto-attack AI state machines, and modular gear systems.
 - 🧙‍♂️ **Final Fantasy-Inspired 2D RPG** — Solo Capstone: Built 100% from scratch with tilemap engine, 4 character classes, turn-based battle mechanics, and save/load serialization.
-- 🌐 **[Gear Games LoL Tournament Hub](https://github.com/hungvdn1314/gg-lol-tournament)** — Full-stack Next.js portal with live bracket propagation and Gemini Vision screenshot OCR.
-- 🏸 **[Gear Games Badminton 2026](https://github.com/hungvdn1314/badminton_tournament)** — Real-time scoring arena with BWF rules engine and service rotation assistant.
-- 🍇 **[Velvet Vines](https://github.com/hungvdn1314/velvet-vines)** — Interactive social card party game with fluid micro-animations.
-- 💼 **[Portfolio Website](https://github.com/hungvdn1314/portfolio)** — Studio-grade game client & infra engineer portfolio.
+- 🌐 **[Gear Games LoL Tournament Hub](https://github.com/hungvdn1314/gg-lol-tournament)** — Full-stack Next.js portal with live bracket propagation and Gemini Vision OCR. ([Live App](https://gg-lol-tournament.vercel.app/))
+- 🏸 **[Gear Games Badminton 2026](https://github.com/hungvdn1314/badminton_tournament)** — Real-time scoring arena with BWF rules engine and service rotation assistant. ([Live App](https://badminton-tournament-gear.vercel.app/))
+- 🍇 **[Velvet Vines](https://github.com/hungvdn1314/velvet-vines)** — Interactive social card party game with fluid micro-animations. ([Live App](https://velvet-vines.vercel.app/))
+- 💼 **[Portfolio Website](https://github.com/hungvdn1314/portfolio)** — Studio-grade game client & infra engineer portfolio. ([Live Deployment](https://hungvdn1314.github.io/portfolio/))
 
 ---
 
@@ -60,5 +63,5 @@
 ---
 
 <div align="center">
-  <sub>Portfolio: <a href="https://github.com/hungvdn1314/portfolio">Vu Dinh Nghia Hung (IrrationaL)</a> · Discord: <code>irrational_</code> · Da Nang, Vietnam</sub>
+  <sub>Portfolio: <a href="https://hungvdn1314.github.io/portfolio/">hungvdn1314.github.io/portfolio</a> · GitHub: <a href="https://github.com/hungvdn1314">@hungvdn1314</a> · Discord: <code>irrational_</code> · Da Nang, Vietnam</sub>
 </div>
