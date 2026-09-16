@@ -21,7 +21,7 @@
 ---
 
 ### 🎮 About Me
-- 🕹️ **4+ years of production experience** at **Gear Games (Nov 2021 – Aug 2026)** bridging player-facing gameplay systems and low-level engine / native SDK stability.
+- 🕹️ **4+ years of production experience** at **Gear Games (Nov 2021 – Aug 2026)** bridging player-facing gameplay systems and low-level engine / native SDK stability. Currently **Open to Work** for game client and engine infrastructure roles (Remote / Relocation / On-site).
 - ⚡ **Engineering Mindset**: Quick to adapt to new tech stacks, energized by tough engineering challenges requiring complete focus, and driven to build software that creates real-world impact.
 - 🛠️ **Infra & Native Stability**: Deep triage of live production crashes (**IAP**, **Firebase**, **Facebook SDK**), telemetry log queries via **Splunk**, and end-to-end ownership of internal tools supporting game projects.
 - 🎓 **Origins & Honors**: Handpicked as 1 of the first 9 inaugural **Google Developer Student Club (DSC) Leads** in Vietnam (2018–2022); B.S. in Computing from University of Greenwich; Won National Awards in both **Tin Học Trẻ Toàn Quốc** and **Cuộc thi KHKT Cấp Quốc Gia** (Specialized in Informatics at Le Quy Don High School for the Gifted).
