@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Vu Dinh Nghia Hung (IrrationaL) 👋</h1>
-  <p><strong>Game Client & Infra Engineer · Unity · Deterministic Multiplayer · Native Mobile SDKs</strong></p>
+  <p><strong>Game Client & Infra Engineer · Unity · C# · Native SDKs & Tooling · Splunk</strong></p>
   
   <p>
     <a href="https://hungvdn1314.github.io/portfolio/">
@@ -21,34 +21,34 @@
 ---
 
 ### 🎮 About Me
-- 🕹️ **4+ years of production experience** at **Gear Games** across game client systems, deterministic simulation, and production engine infrastructure.
-- ⚙️ **Core Focus**: Deterministic netcode (**Photon Quantum**), turn-based combat math, algorithmic match-3 grid solvers, animation timelines, and mobile UI/UX optimization.
-- 🛠️ **Infra & Native Debugging**: Deep triage of native iOS/Android crashes (**IAP**, **Firebase**, **Facebook SDK**), telemetry log queries via **Splunk**, and macOS desktop tooling in Swift & Python.
-- 🎓 **Origins**: Handpicked as 1 of the first 9 inaugural **Google Developer Student Club (DSC) Leads** in Vietnam (2018–2022); B.S. in Computing from University of Greenwich Vietnam; Specialized in Informatics at Le Quy Don High School for the Gifted.
+- 🕹️ **4+ years of production experience** at **Gear Games** bridging player-facing gameplay systems and low-level engine / native SDK stability.
+- ⚡ **Engineering Mindset**: Quick to adapt to new tech stacks, energized by tough engineering challenges requiring complete focus, and driven to build software that creates real-world impact.
+- 🛠️ **Infra & Native Stability**: Deep triage of live production crashes (**IAP**, **Firebase**, **Facebook SDK**), telemetry log queries via **Splunk**, and end-to-end ownership of internal tools supporting game projects.
+- 🎓 **Origins & Honors**: Handpicked as 1 of the first 9 inaugural **Google Developer Student Club (DSC) Leads** in Vietnam (2018–2022); B.S. in Computing from University of Greenwich; Won National Awards in both **Tin Học Trẻ Toàn Quốc** and **Cuộc thi KHKT Cấp Quốc Gia** (Specialized in Informatics at Le Quy Don High School for the Gifted).
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Stack Matrix
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Engines & Multiplayer** | Unity (2D/3D), Photon Quantum, Deterministic Physics, Lockstep Netcode, ECS Architecture |
-| **Languages** | C# (.NET), C++, Swift, Python, TypeScript, Java |
-| **Gameplay Systems** | Finite State Machines, Combat Math, Algorithmic Solvers, Animation Timelines, Input Buffering |
-| **Profiling & Tuning** | Unity Memory Profiler, Frame Debugger, GPU Batching, Draw Call Optimization, Xcode Instruments |
-| **Infra & Tools** | Native iOS/Android SDK Triage (IAP/Firebase/FB), Splunk Telemetry, macOS Tools, Next.js, Git |
+| **Languages** | C# (.NET Tooling), C++ (Native Plugins & Memory Pooling), Python (Automation), Swift (macOS Utilities), JavaScript / TypeScript |
+| **Game & Systems** | Unity (2D/3D, UGUI, Timelines), Photon Quantum (Deterministic ECS), State Machines (FSM), Physics & Collision, Combat Calculations |
+| **Infra & Debugging** | Splunk (Crash Triage & Telemetry), Native SDKs (Facebook, Firebase, IAP), Profiling Tools (Xcode Instruments, Profiler), Internal Tooling, Git & CI/CD |
+| **Web & Platforms** | React, Next.js, Vite, Tailwind CSS, iOS & Android, macOS Environment, Embedded / IoT (Arduino) |
 
 ---
 
-### 🚀 Key Projects & Architecture Highlights
+### 🚀 Key Projects & Systems
 
-- ⚔️ **Puzzle Strike: Combat RPG** — Client Engineer: Owned core match-3 grid algorithms, turn-based battle calculations, 3D character timeline animations, and Photon Quantum battleground prototype.
-- 🏎️ **Custom Car Racing 3D** — Client Engineer: Built modular timeline framework for 3D vehicle customization and optimized mobile GPU batching.
-- 🥊 **Idle Combat & Obstacle Battleground** — End-to-End Prototype: Physics obstacle course hazard logic, auto-attack AI state machines, and modular gear systems.
-- 🧙‍♂️ **Final Fantasy-Inspired 2D RPG** — Solo Capstone: Built 100% from scratch with tilemap engine, 4 character classes, turn-based battle mechanics, and save/load serialization.
+- ⚔️ **Puzzle Strike: Combat RPG & Survival Prototype** — Client Engineer: First project at Gear Games; supported the team on the real-time survival prototype (weapon logic, skills, data bug fixes) and collaborated within the client team shipping the commercial combat RPG (match-3 grid logic, turn combat math, 3D character animation timelines, and mobile UI).
+- 🎰 **POP! Slots (playSTUDIOS)** — Client & Engine Support: Monitored live production logs in Splunk to isolate and resolve native crash patterns across Facebook SDK, Firebase, and IAP; owned several internal tools supporting the project end-to-end (PRD breakdown, TDD, implementation, maintenance).
+- 🏎️ **Custom Car Racing 3D** — Client Engineer: Built a modular timeline framework for 3D vehicle customization (parts swapping, color grading) and optimized mobile GPU batching / draw calls.
+- 🥊 **Idle Combat & Obstacle Battleground** — End-to-End Prototype: Physics obstacle course hazard logic, auto-attack AI state machines, and modular gear systems with hit-stop VFX.
+- 🧙‍♂️ **Final Fantasy-Inspired 2D RPG** — Solo Capstone: Built 100% from scratch as University Graduation Thesis and Gear Inc 6-month internship capstone (tilemaps, 4 heroes, turn combat math, save/load serialization).
 - 🌐 **[Gear Games LoL Tournament Hub](https://github.com/hungvdn1314/gg-lol-tournament)** — Full-stack Next.js portal with live bracket propagation and Gemini Vision OCR. ([Live App](https://gg-lol-tournament.vercel.app/))
 - 🏸 **[Gear Games Badminton 2026](https://github.com/hungvdn1314/badminton_tournament)** — Real-time scoring arena with BWF rules engine and service rotation assistant. ([Live App](https://badminton-tournament-gear.vercel.app/))
-- 🍇 **[Velvet Vines](https://github.com/hungvdn1314/velvet-vines)** — Interactive social card party game with fluid micro-animations. ([Live App](https://velvet-vines.vercel.app/))
+- 🍇 **[Velvet Vines](https://github.com/hungvdn1314/velvet-vines)** — Responsive drinking & party game web app with fluid micro-animations and randomized challenge decks for social nights. ([Live App](https://velvet-vines.vercel.app/))
 - 💼 **[Portfolio Website](https://github.com/hungvdn1314/portfolio)** — Studio-grade game client & infra engineer portfolio. ([Live Deployment](https://hungvdn1314.github.io/portfolio/))
 
 ---
