@@ -32,9 +32,9 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C# (.NET Tooling), C++ (Native Plugins & Memory Pooling), Python (Automation), Swift (macOS Utilities), JavaScript / TypeScript |
+| **Languages** | C# (Unity), C++ (Native Plugins), Python (Automation), Swift (macOS Utilities), JavaScript / TypeScript |
 | **Game & Systems** | Unity (2D/3D, UGUI, Timelines), Photon Quantum (Deterministic ECS), State Machines (FSM), Physics & Collision, Combat Calculations |
-| **Infra & Debugging** | Splunk (Crash Triage & Telemetry), Native SDKs (Facebook, Firebase, IAP), Profiling Tools (Xcode Instruments, Profiler), Internal Tooling, Git & CI/CD |
+| **Infra & Debugging** | Splunk (Crash Triage & Telemetry), Native SDKs (Facebook, Firebase, IAP), Internal Tooling, Git & CI/CD |
 | **Web & Platforms** | React, Next.js, Vite, Tailwind CSS, iOS & Android, macOS Environment, Embedded / IoT (Arduino) |
 
 ---
